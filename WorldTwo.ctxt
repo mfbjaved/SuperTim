@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=WorldTwo
+comment0.text=\n\ Write\ a\ description\ of\ class\ WorldTwo\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=t\ y
+comment1.target=WorldTwo(Tim,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WorldTwo.\n\ \n
+comment10.params=
+comment10.target=void\ createSkeletons()
+comment2.params=
+comment2.target=void\ prepareBoards()
+comment3.params=
+comment3.target=void\ coinBoard()
+comment4.params=
+comment4.target=void\ updateLifeBoard()
+comment5.params=
+comment5.target=void\ updateCoinBoard()
+comment6.params=
+comment6.target=greenfoot.GreenfootImage\ getScrollBg()
+comment6.text=public\ WorldThree(Tim\ tim,\ int\ y)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ super(600,\ 400,\ 1,\ false);\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ addObject(tim,\ 5,\ y);\n}
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\n\ Constructor\ for\ objects\ of\ class\ WorldTwo.\n\ \n
+comment8.params=
+comment8.target=void\ scroll()
+comment9.params=
+comment9.target=void\ createCoins()
+numComments=11

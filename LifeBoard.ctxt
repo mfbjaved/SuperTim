@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LifeBoard
+comment0.text=\n\ Write\ a\ description\ of\ class\ Board\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=l\ fs\ fg\ bg
+comment1.target=LifeBoard(java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color)
+comment2.params=l
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=void\ checkLife()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Board\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5

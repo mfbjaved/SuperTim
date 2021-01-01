@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scroll
+comment0.text=\n\ CLASS\:\ Scroll\n\ AUTHOR\:\ danpost\n\ VERSION\:\ March\ 9,\ 2015\n\ \n\ This\ support\ class\ controls\ the\ background\ image\ of\ the\ world\ provided;\n\ the\ size\ of\ the\ image\ supplied\ determines\ the\ scrolling\ area.\n\ \n\ In\ your\ world\ class,\ create\ an\ instance\ of\ this\ class\ supplying\ the\ background\ image\ of\ the\n\ scrolling\ area\ and\ also\ the\ world\ itself\ and\ keep\ a\ reference\ to\ the\ Scroll\ object\ created\ in\n\ the\ world.\ \ Then\ you\ can\ use\ one\ of\ the\ 'changeScroll'\ methods\ below\ to\ control\ the\ scrolling\n\ of\ the\ background\ of\ your\ active\ world.\n
+comment1.params=bgImg\ world
+comment1.target=Scroll(greenfoot.GreenfootImage,\ greenfoot.World)
+comment1.text=creates\ a\ new\ Scroll\ objecct
+comment2.params=dScroll
+comment2.target=int\ changeScrollX(int)
+comment2.text=use\ for\ horizontal\ scrolling\ only;\ returns\ the\ change\ in\ scroll\ value
+numComments=3
